@@ -12,8 +12,11 @@ Data cleaning is at the heart of this project. I undertook a comprehensive data-
 Data modeling plays a crucial role in structuring and organizing the cleaned data for effective analysis. I constructed various visual models to provide insights into the data. These models include:
 
 The sum of SalesAmount and Count of OrderNumber by Year: This model allows for the examination of sales trends over time, facilitating year-over-year comparisons.
+
 The sum of SalesAmount by ProductGroup: Visualizing sales by product group helps identify top-performing categories and areas for potential improvement.
+
 The sum of SalesAmount by Channel: Analyzing sales by channel offers insights into the effectiveness of different distribution channels.
+
 The sum of SalesAmount by ProductCategory: This model provides a detailed view of sales across various product categories, aiding in product-related decisions.
 
 
